@@ -1,0 +1,1 @@
+This is educepnieks’s first git project!
